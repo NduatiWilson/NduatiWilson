@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NduatiWilson
-- 👀 I’m interested in Java, Python, and .Net
+- 👀 I’m interested in bash scripting, python, and Security Projects
 - 🌱 I’m currently learning scripting using Python
 - 💞️ I’m looking to collaborate on scripting and .net projects 
 - ⚡ Fun fact: coding is fun right?
